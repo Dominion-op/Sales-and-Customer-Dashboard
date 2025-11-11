@@ -1,14 +1,14 @@
-# 📊 Sales & Customer Dashboard (Tableau Project)
+# Sales & Customer Dashboard (Tableau Project)
 
-## 🧠 Project Overview  
+## Project Overview  
 This project presents two interactive Tableau dashboards — **Sales Dashboard** and **Customer Dashboard** — developed to visualize and analyze business performance, sales insights, and customer behavior patterns.  
 It highlights how **data visualization** can help organizations make informed, data-driven decisions efficiently.
 
 ---
 
-## 🚀 Dashboards Included  
+## Dashboards Included  
 
-### 💼 1. Sales Dashboard  
+### 1. Sales Dashboard  
 A performance-focused dashboard designed to analyze overall company sales and profitability.  
 
 **Key Features:**  
@@ -20,7 +20,7 @@ A performance-focused dashboard designed to analyze overall company sales and pr
 
 ---
 
-### 👥 2. Customer Dashboard  
+### 2. Customer Dashboard  
 A customer-centric dashboard that tracks performance, retention, and profitability metrics.  
 
 **Key Features:**  
@@ -32,30 +32,30 @@ A customer-centric dashboard that tracks performance, retention, and profitabili
 
 ---
 
-## 🧩 Tools & Technologies  
+## Tools & Technologies  
 - **Tableau Desktop / Tableau Public** – for dashboard creation  
 - **Excel / CSV** – as data source  
 - **Microsoft Excel / Python (optional)** – for data cleaning
 
 ---
 
-## 🧱 Project Development Phases  
+## Project Development Phases  
 Based on the standard **Tableau Project Workflow** followed in analytics projects:  
 
-1. 📋 **Requirement Gathering & Mockup Design**  
-2. 🧹 **Data Preparation and Cleaning**  
-3. 🧩 **Dashboard Layout & Container Setup**  
-4. 📈 **Chart & KPI Integration**  
-5. ⚙️ **Interactivity and Filter Setup**  
-6. 🚀 **Testing and Publishing**  
+1. **Requirement Gathering & Mockup Design**  
+2. **Data Preparation and Cleaning**  
+3. **Dashboard Layout & Container Setup**  
+4. **Chart & KPI Integration**  
+5. **Interactivity and Filter Setup**  
+6. **Testing and Publishing**  
 
 ---
 
-## 📁 Project Structure
-📂 Tableau-Dashboard-Project
+##  Project Structure
+Tableau-Dashboard-Project
 │
-├── 📊 Sales_Dashboard.twbx
-├── 👥 Customer_Dashboard.twbx
+├── Sales&CustomerDashboard.twbx
+
 │
 ├── 📈 Dataset/
 │ ├── Location.csv

@@ -76,3 +76,17 @@ Tableau-Dashboard-Project
 - To analyze **sales and customer performance** effectively  
 - To identify **key business insights** using data visualization  
 - To enhance **decision-making** through interactive dashboards  
+
+---
+
+## Author  
+**Divyesh Shetye**  
+ Bachelor’s in Data Science and Data Analytics  
+ Age: 20  
+ Passionate about Data Visualization, Analytics, and Business Intelligence  
+
+
+---
+
+## 🏁 Acknowledgments  
+This project was inspired by the **Tableau Ultimate Course by Baraa Khatib-Salkini**, focusing on best practices for professional dashboard design and storytelling in Tableau.  

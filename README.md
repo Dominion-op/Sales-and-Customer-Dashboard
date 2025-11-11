@@ -57,13 +57,13 @@ Tableau-Dashboard-Project
 ├── Sales&CustomerDashboard.twbx
 
 │
-├── 📈 Dataset/
+├── Dataset/
 │ ├── Location.csv
 │ ├── Customers.csv
 │ ├── Orders.csv
 │ ├── Products.csv
 │
-├── 🧾 Documentation/
+├── Documentation/
 │ ├── Mockup.pdf
 │ ├── Project_Phases.pdf
 │
